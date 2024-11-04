@@ -1,1 +1,2 @@
-# UML-Diagram  ![IMG_3180](https://github.com/user-attachments/assets/c098fddd-d3a3-4d52-abfd-21fc94627422)
+# UML-Diagram 
+![IMG_3180 Kopie](https://github.com/user-attachments/assets/c7b9e2e0-99fa-4918-a427-657658414514)
